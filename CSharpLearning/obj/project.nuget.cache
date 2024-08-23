@@ -1,0 +1,69 @@
+{
+  "version": 2,
+  "dgSpecHash": "PEDRSBPSBiD+h5g/95sKdW1NvEIzcHHwDeY4KYpZKXjXRL/J+iYqc6XlkNqotrwFgXrsdgBlBgIab2YX/+Ahgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CCL\\RiderProjects\\CSharpLearning\\CSharpLearning\\CSharpLearning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CCL\\AppData\\Roaming\\NuGet\\packages\\graphsharp\\1.1.0\\graphsharp.1.1.0.nupkg.sha512",
+    "C:\\Users\\CCL\\AppData\\Roaming\\NuGet\\packages\\graphviz.net\\1.0.0\\graphviz.net.1.0.0.nupkg.sha512",
+    "C:\\Users\\CCL\\AppData\\Roaming\\NuGet\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\CCL\\AppData\\Roaming\\NuGet\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\CCL\\AppData\\Roaming\\NuGet\\packages\\quickgraph\\3.6.61119.7\\quickgraph.3.6.61119.7.nupkg.sha512",
+    "C:\\Users\\CCL\\AppData\\Roaming\\NuGet\\packages\\sandwych.quickgraph.core\\1.0.0\\sandwych.quickgraph.core.1.0.0.nupkg.sha512",
+    "C:\\Users\\CCL\\AppData\\Roaming\\NuGet\\packages\\system.diagnostics.contracts\\4.3.0\\system.diagnostics.contracts.4.3.0.nupkg.sha512",
+    "C:\\Users\\CCL\\AppData\\Roaming\\NuGet\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\CCL\\AppData\\Roaming\\NuGet\\packages\\wpfextensions\\1.0.0\\wpfextensions.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "GraphSharp 1.1.0 does not provide an inclusive lower bound for dependency WPFExtensions. An approximate best match of WPFExtensions 1.0.0 was resolved.",
+      "libraryId": "WPFExtensions",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'GraphSharp 1.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "GraphSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'GraphViz.NET 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "GraphViz.NET",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'QuickGraph 3.6.61119.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "QuickGraph",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WPFExtensions 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WPFExtensions",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
