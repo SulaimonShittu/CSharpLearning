@@ -85,7 +85,7 @@ class Lecturer {
 
     private void Teach()
     {
-        
+        Console.WriteLine("--Teaching--");
     }
 }
 
@@ -102,9 +102,9 @@ class Student {
         Console.WriteLine($"The Student with the Id : {Id}, Faculty Id : {FacultyID}, Department Id : {DepartmentID}");
         Console.WriteLine($"His name is : {Name}, Level : {Level}, Age : {Age}");
     } 
-    private void Teach()
+    private void Study()
     {
-        
+        Console.WriteLine("--Studying--");
     }
 }
 
