@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLearning", "CSharpLearning\CSharpLearning.csproj", "{4C436A1F-0176-4FDC-A8A4-126C8BFD4D18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{01B4A1BF-9E3C-4F5E-8935-C6BB209CCC86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{4C436A1F-0176-4FDC-A8A4-126C8BFD4D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C436A1F-0176-4FDC-A8A4-126C8BFD4D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C436A1F-0176-4FDC-A8A4-126C8BFD4D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B4A1BF-9E3C-4F5E-8935-C6BB209CCC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B4A1BF-9E3C-4F5E-8935-C6BB209CCC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B4A1BF-9E3C-4F5E-8935-C6BB209CCC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B4A1BF-9E3C-4F5E-8935-C6BB209CCC86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
